@@ -2,7 +2,7 @@
 import argparse
 
 SITES = ["www.reddit.com", 
-    "hackernews.ycombinator.com", 
+    "news.ycombinator.com", 
     "www.medium.com"]
 
 def main():
